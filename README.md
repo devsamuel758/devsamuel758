@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projetos
 - 📫 How to reach me (email)
 - 😄 Pronouns: Ele/Dele/Esse
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Estou cursando Linguagem C também
 
 <!---
 devsamuel758/devsamuel758 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
