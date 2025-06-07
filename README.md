@@ -2,8 +2,8 @@
 - 👀 I’m interested in HTML, CSS e JavaScript
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projetos
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me (email)
+- 😄 Pronouns: Ele/Dele/Esse
 - ⚡ Fun fact: ...
 
 <!---
